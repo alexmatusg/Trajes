@@ -1,0 +1,23 @@
+.contenedor{
+    width: 900px;
+}
+.superior{
+    width: 890px;
+}
+
+.inferior{
+    width: 890px;
+}
+
+.t{
+    width: 200px;
+    height: 280px;
+    border: solid black;
+    display: inline-block;
+}
+
+.trajes{
+    margin-top: 10px;
+    height: 250px;
+    width: 190px;
+}
